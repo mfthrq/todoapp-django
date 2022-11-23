@@ -28,7 +28,7 @@ def update(request, primary_key):
             form.save()
         return redirect('/')
     
-    context = {'form':form}
+    context = {'item':task,'form':form}
     return render(request, 'tasks/update.html', context)
 
 def deleteTask(request, primary_key):
