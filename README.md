@@ -7,4 +7,4 @@
 
 # Run Program
 3. python manage.py runserver
-
+4. Open http://127.0.0.1:8000/ 
