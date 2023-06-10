@@ -1,4 +1,5 @@
-# Semester 1 Final Project | Basic Programming | Reminder App
+# Reminder App | A Lovely Todo App
+Reminder App - Fundamental Programming's Final Project - Semester 1 
 ![Screenshot (1824)](https://user-images.githubusercontent.com/59170543/205467403-1eb74eab-a653-4dfa-b3d4-3a66f4c23f07.png)
 
 # Group 7 Member
